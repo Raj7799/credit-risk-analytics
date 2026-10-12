@@ -45,10 +45,19 @@ The classification threshold used for these results was approximately 0.16. Accu
 - `sql/business_analysis.sql` — SQL business analysis queries.
 
 ## Dashboard
-A Power BI dashboard was developed to present applicant-level predictions and credit-risk insights. Dashboard screenshots and the report file can be added to this repository after checking for sensitive information.
+The Power BI dashboard provides an interactive view of credit risk, including predicted defaults, total applicants, actual default rate, risk category analysis, and applicant risk exploration.
+
+The dashboard report is available in [`risk management.pbix`](risk%20management.pbix).
+
+## Power BI Dashboard Preview
+
+![Credit Risk Dashboard](dashboard-preview.png)
 
 ## Important Disclaimer
 This project is for educational and portfolio purposes only. Predictions are not financial advice and should not be used as the sole basis for real credit decisions.
 
 ## Author
 Raj Sharma
+
+
+
